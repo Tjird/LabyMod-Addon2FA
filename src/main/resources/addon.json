@@ -1,0 +1,8 @@
+{
+  "uuid": "%uuid%",
+  "name": "2FA Auto-Complete [NL]",
+  "mainClass": "me.tjird.mfaaddon.MFAAddon",
+  "author": "Tjird",
+  "description": "This tool is ATM only for dutchies.\nDeze addon zal automatisch je 2FA invullen. Gebruik /a2fa help voor hulp. De server moet het bericht `Je moet inloggen met je Authenticator code /2fa <code>` versturen.",
+  "category": 2
+}
